@@ -1,6 +1,6 @@
 # SuperActivity
 
-A library with a Collections of usage methods <br/>
+A library with a Collections of usage methods inside Activity Class <br/>
 
 
 ## Instalation ##
