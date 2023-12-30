@@ -1,3 +1,4 @@
+# DEPRICATED DO NOT USE IT
 # SuperActivity
 
 A library with a Collections of usage methods inside Activity Class <br/>
