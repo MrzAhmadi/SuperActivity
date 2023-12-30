@@ -1,5 +1,5 @@
-# DEPRICATED!!! DO NOT USE IT
-# SuperActivity
+# DEPRECATED!!! THIS REPOSITORY IS NOT MAINTAINED
+## SuperActivity
 
 A library with a Collections of usage methods inside Activity Class <br/>
 
